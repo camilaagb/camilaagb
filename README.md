@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**camilaagb/camilaagb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning Front-End Develompent
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Tech Stack:
+<br>
+
+### 💻 Frontend:
+<div aling="center" >
+<img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Camila-React" height="60" width="35"src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" />
+</div>
+<br>
+
+### 🖍 Design:
+<div aling="center" >
+<img align="center" alt="Camila-Figma" height="35" width="35"src="https://img.icons8.com/fluency/2x/figma.png" />
+          
+
+          
+</div>
+<br>
+
+### 🐱‍💻 Others:
+<div aling="center" >
+<img align="center" alt="Camila-VsCode " height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Camila-GitHub" height="40" width="40"src="https://img.icons8.com/fluency/512/github.png" />
+<img align="center" alt="Camila-trello" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+</div>
