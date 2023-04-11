@@ -29,5 +29,7 @@ I’m currently learning Front-End Develompent
 <div aling="center" >
 <img align="center" alt="Camila-VsCode " height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="Camila-GitHub" height="40" width="40"src="https://img.icons8.com/fluency/512/github.png" />
+<img align="center" alt="Camila-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img align="center" alt="Camila-trello" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+
 </div>
